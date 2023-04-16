@@ -1,0 +1,5 @@
+node_modules/
+minio-storage/node_modules
+video-streaming/node_modules
+
+.npm
